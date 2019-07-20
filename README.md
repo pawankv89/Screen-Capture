@@ -68,7 +68,7 @@ This can be converted to a function and used at multiple places, or as an extens
 This is how the app looks. When you run it.
 
 
-```swiift
+```swift
 
 import UIKit
 
